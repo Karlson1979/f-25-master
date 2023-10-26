@@ -27,7 +27,7 @@ const names = ["Igor", "Oleg", "Alex"];
 //push - додати у кінець
 //unshift - додати на початок
 
-names[names.length] = "Yula";
+names[names.length] = "Yura";
 names.push("Vika");
 const igor = names.shift();
 
